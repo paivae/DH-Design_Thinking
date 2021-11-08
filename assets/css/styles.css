@@ -2,7 +2,7 @@
 /*!
 * Start Bootstrap - New Age v6.0.5 (https://startbootstrap.com/theme/new-age)
 * Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-new-age/blob/master/LICENSE)
+* Licensed under MIT (11634)
 */
 /*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
@@ -11673,6 +11673,11 @@ html {
 
 .bg-gradient-primary-to-secondary {
   background: linear-gradient(45deg, #f12711, #f5af19) !important;
+}
+
+.bg-gradient-primary-to-secondary-15 {
+  background: linear-gradient(-15deg, #f12711, #f5af19) !important;
+  border: 1px solid #f5af19 !important;
 }
 
 .font-alt {
