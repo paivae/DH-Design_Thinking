@@ -1,0 +1,70 @@
+.hero-2 {
+  position: relative;
+}
+
+.hero-2-img {
+  position: absolute;
+  top: 0;
+}
+
+#hero-2 {
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(33, 33, 33, 0.4);
+}
+
+#hero-2 .video-background {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin-top: -13%;
+  z-index: -999;
+}
+
+/*
+    breakpoints
+*/
+
+@media screen and (max-width: 992px) {
+  .hero-2 {
+    background-image: url("../img/wallpapers/crossfit_woman.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff !important;
+  }
+
+  .hero-2-legend {
+    color: #fff !important;
+  }
+
+  .hero-2-img {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #hero-2 .video-background {
+    width: 140%;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  #hero-2 .video-background {
+    width: 180%;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #hero-2 .video-background {
+    width: 200%;
+    margin-top: 0;
+  }
+
+  #hero-2-video-legend {
+    padding: 0px !important;
+  }
+}
