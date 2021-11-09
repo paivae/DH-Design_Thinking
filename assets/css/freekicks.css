@@ -22,6 +22,32 @@
   z-index: -999;
 }
 
+.hero-4 {
+  position: relative;
+  overflow: hidden;
+  background-image: url("../img/wallpapers/mapamundi.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.btn-kickoins {
+  font-size: 17px;
+  border: 2px solid #f5af19 !important;
+}
+
+.logo-img {
+  width: 200px;
+  max-height: 95px;
+  padding-bottom: 3rem;
+}
+
+.img-profile {
+  border-radius: 100px;
+  width: 150px;
+  height: 150px;
+}
+
 /*
     breakpoints
 */

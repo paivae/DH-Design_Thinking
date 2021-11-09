@@ -1,6 +1,6 @@
 # Proyecto final Design Thinking
 
-![version](https://img.shields.io/badge/Version-2.3.0-orange)
+![version](https://img.shields.io/badge/Version-2.4.0-orange)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![dh](https://img.shields.io/badge/Materia-Design%20Thinking-red)
 
