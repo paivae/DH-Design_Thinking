@@ -51,7 +51,7 @@ Visita previa: [Pulse Aquí](https://paivae.github.io/DH-Design_Thinking/ "Visit
 
 [https://internationalworldofbusiness.com/parametros-seguridad-y-calidad-sostienen-operaciones-uber/](https://internationalworldofbusiness.com/parametros-seguridad-y-calidad-sostienen-operaciones-uber/)
 
-[https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png](https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png)
+[https://seeklogo.com/](https://seeklogo.com)
 
 [https://p4.wallpaperbetter.com/wallpaper/394/266/366/actors-dwayne-johnson-actor-american-face-hd-wallpaper-preview.jpg](https://p4.wallpaperbetter.com/wallpaper/394/266/366/actors-dwayne-johnson-actor-american-face-hd-wallpaper-preview.jpg)
 
