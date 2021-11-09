@@ -43,6 +43,41 @@ Visita previa: [Pulse Aquí](https://paivae.github.io/DH-Design_Thinking/ "Visit
 
 [https://www.color-hex.com/color-palette/83754](https://www.color-hex.com/color-palette/83754)
 
+[https://unsplash.com/wallpapers/companies/nike](https://unsplash.com/wallpapers/companies/nike)
+
+[https://unsplash.com/wallpapers/companies/nike](https://unsplash.com/wallpapers/companies/nike)
+
+[https://www.wallpapertip.com/es/hobRmx/](https://www.wallpapertip.com/es/hobRmx/)
+
+[https://internationalworldofbusiness.com/parametros-seguridad-y-calidad-sostienen-operaciones-uber/](https://internationalworldofbusiness.com/parametros-seguridad-y-calidad-sostienen-operaciones-uber/)
+
+[https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png](https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png)
+
+[https://p4.wallpaperbetter.com/wallpaper/394/266/366/actors-dwayne-johnson-actor-american-face-hd-wallpaper-preview.jpg](https://p4.wallpaperbetter.com/wallpaper/394/266/366/actors-dwayne-johnson-actor-american-face-hd-wallpaper-preview.jpg)
+
+[https://www.losandes.com.ar/](https://www.losandes.com.ar/)
+
+[https://www.discogs.com/es/artist/240508-Thal%C3%ADa](https://www.discogs.com/es/artist/240508-Thal%C3%ADa)
+
+[https://www.princesviajes.com.ar/empresas/ersa](https://www.princesviajes.com.ar/empresas/ersa)
+
+[https://www.netflix.com](https://www.netflix.com)
+
+[https://www.farmacity.com/Institucional/datosnoopiniones](https://www.farmacity.com/Institucional/datosnoopiniones)
+
+[https://www.freepng.es/png-dv2sts/](https://www.freepng.es/png-dv2sts/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Herramientas
 ![ps](https://img.icons8.com/color/2x/adobe-photoshop.png)
